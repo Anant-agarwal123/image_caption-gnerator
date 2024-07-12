@@ -1,1 +1,1 @@
-# image_caption-gnerator
+# image_caption-generator
